@@ -1,6 +1,23 @@
-title: Minimal theme
+title: <p align="center"> Ranjit Patra </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ranjitpatra/">LinkedIn</a> |
+  <a href="https://github.com/ranjitpatra">GitHub</a> | 
+  <a href="https://ranjitpatra.com/">Website</a>
+ 
+  <br>  
+  I'm working on IT application development in the domains of 
+  Business Intelligence (BI), ERP, and Email Messaging products 
+  using different technologies and frameworks like 
+  Microservice Architecture, 
+  Event Driven Architecture using Kafka, 
+  Cloud technology, 
+  RDBMS, NoSQL Databases,
+   and hands-on with UI Frameworks
+  <br>
+  </p>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
